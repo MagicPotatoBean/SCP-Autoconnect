@@ -1,0 +1,13 @@
+C:\Users\terra\source\repos\SCP Autoconnect\SCP Autoconnect\bin\Debug\SCP Autoconnect.exe.config
+C:\Users\terra\source\repos\SCP Autoconnect\SCP Autoconnect\bin\Debug\SCP Autoconnect.exe
+C:\Users\terra\source\repos\SCP Autoconnect\SCP Autoconnect\bin\Debug\SCP Autoconnect.pdb
+C:\Users\terra\source\repos\SCP Autoconnect\SCP Autoconnect\bin\Debug\SCP Autoconnect.xml
+C:\Users\terra\source\repos\SCP Autoconnect\SCP Autoconnect\obj\Debug\SCP Autoconnect.vbproj.AssemblyReference.cache
+C:\Users\terra\source\repos\SCP Autoconnect\SCP Autoconnect\obj\Debug\SCP Autoconnect.vbproj.SuggestedBindingRedirects.cache
+C:\Users\terra\source\repos\SCP Autoconnect\SCP Autoconnect\obj\Debug\SCP_Autoconnect.Form1.resources
+C:\Users\terra\source\repos\SCP Autoconnect\SCP Autoconnect\obj\Debug\SCP_Autoconnect.Resources.resources
+C:\Users\terra\source\repos\SCP Autoconnect\SCP Autoconnect\obj\Debug\SCP Autoconnect.vbproj.GenerateResource.cache
+C:\Users\terra\source\repos\SCP Autoconnect\SCP Autoconnect\obj\Debug\SCP Autoconnect.vbproj.CoreCompileInputs.cache
+C:\Users\terra\source\repos\SCP Autoconnect\SCP Autoconnect\obj\Debug\SCP Autoconnect.exe
+C:\Users\terra\source\repos\SCP Autoconnect\SCP Autoconnect\obj\Debug\SCP Autoconnect.xml
+C:\Users\terra\source\repos\SCP Autoconnect\SCP Autoconnect\obj\Debug\SCP Autoconnect.pdb
